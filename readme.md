@@ -5,8 +5,8 @@ _aplicacion de muestra con javascript_
 
 ### Pre-requisitos 📋
 
-_ Javascript, Html, y css_!
-###ScreenShot
+_ Javascript, Html, y css_
+
 
 
 
